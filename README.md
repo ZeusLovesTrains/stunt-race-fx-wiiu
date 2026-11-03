@@ -3,6 +3,8 @@
 An unofficial fan port of the SNES game **Stunt Race FX** to the Wii U (Aroma homebrew, `.wuhb`).
 It runs the game natively, built on Jeff's CC0 decompilation, rather than in an emulator.
 
+This game was always a favourite of mine, and it's nice to see it have some great quality of life features that really make it more playable and fair.
+
 > **Work in progress.** It plays well, but there are known rough edges (see below).
 > Tested mostly in Cemu, with some testing on a real Wii U.
 
