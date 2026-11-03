@@ -27,6 +27,9 @@ enjoy it! If you find a bug, please [open an issue](../../issues) and let me kno
 
 Pause menu: hold `-` and press `+`, or `ZL+ZR+-`.
 
+**Updating:** your records and best times carry over automatically to each new build.
+Only a mid-race resume point is reset when you update.
+
 ## Known issues
 - Occasional thin gaps or breaks in the road and 3D objects
 - A brief 4:3-to-widescreen change before races
