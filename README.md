@@ -6,6 +6,9 @@ It runs the game natively, built on Jeff's CC0 decompilation, rather than in an 
 > **Work in progress.** It plays well, but there are known rough edges (see below).
 > Tested mostly in Cemu, with some testing on a real Wii U.
 
+Made with AI, bug-checked with love. Hopefully you enjoy it! If you find a bug, please
+[open an issue](../../issues) and let me know.
+
 ## Features
 - 16:9 widescreen at 720p, including the title screen and menus
 - Longer draw distance (adjustable in the pause menu)
